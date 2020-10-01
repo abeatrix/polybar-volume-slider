@@ -45,5 +45,5 @@ bar-volume-empty-foreground = ${colors.primary}
 ```
 
 ## Dependencies
-<a href ="https://www.nerdfonts.com/cheat-sheet">Nerd Fonts</a>
+<a href ="https://www.nerdfonts.com/cheat-sheet">Nerd Fonts</a> <br>
 <a href ="https://wiki.ubuntu.com/PulseAudio">pulseaudio</a>

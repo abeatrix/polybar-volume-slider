@@ -1,4 +1,5 @@
 # polybar-volume-slider
+<img src="https://i.ibb.co/gT30CNK/image.png" alt="image" border="0"><br>
 A volume slider for polybar on i3wm using pulseaudio.
 
 ## Functions

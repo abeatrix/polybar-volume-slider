@@ -3,8 +3,8 @@
 A volume slider for polybar on i3wm using pulseaudio.
 
 ## Functions
-default click to mute is still available 
-change the volume by scrolling up / down with mouse hover the slider
+-1 default click to mute is still available
+-1 change the volume by scrolling up / down with mouse hovering the slider
 
 ## Code
 Replace the audio module inside your polybar configuration file with code below.
